@@ -132,6 +132,6 @@ public class Main {
         totalSale = (double) subTotal + salesTax;
         System.out.printf("8) You ordered %d order/s of %s.", num, prod);
         System.out.printf("\nYour total is %f%n", totalSale);
-
+//
     }
 }
